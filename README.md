@@ -7,3 +7,9 @@ npm install
 ```
 
 #Postman Collection is Added
+
+#To run
+
+```bash
+npm run dev
+```
