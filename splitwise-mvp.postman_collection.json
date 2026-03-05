@@ -13,7 +13,7 @@
         "header": [],
         "body": {
           "mode": "raw",
-          "raw": "{\r\n  \"email\": \"dharani@mail.com\",\r\n  \"password\": \"123\",\r\n  \"currency\": \"INR\"\r\n}",
+          "raw": "{\r\n  \"email\": \"madhu@mail.com\",\r\n  \"password\": \"123\",\r\n  \"currency\": \"INR\"\r\n}",
           "options": {
             "raw": {
               "language": "json"
